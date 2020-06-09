@@ -3,7 +3,7 @@
 ### The Awakened
 
 * **Short Victory Conditions**:
-	* Earn 12000 infamy
+	* Earn 15000 infamy
 	* Capture at least 16 provinces including
 	    * Vampire Coast, Northern Great Jungle, Southern Great Jungle, Headhunters Jungle, The Creeping Jungle, Jungles
 	    of Green Mists, Volcanic Islands
@@ -13,7 +13,7 @@
 	* Own at least 80 units
 	* Repair Harkons mind
 * **Long Victory Conditions**:
-	* Earn 20000 infamy
+	* Earn 25000 infamy
 	* Capture at least 30 provinces including
 	    * Vampire Coast, Northern Great Jungle, Southern Great Jungle, Headhunters Jungle, The Creeping Jungle, Jungles
 	    of Green Mists, Spine of Sotek, Huahuan Desert, Northern Jungle of Pahualaxa, Southern Jungle of Pahualaxa, 
@@ -28,14 +28,14 @@
 ### The Dreadfleet
 
 * **Short Victory Conditions**:
-	* Earn 12000 infamy
+	* Earn 15000 infamy
 	* Capture at least 12 provinces
 	* Destroy factions
 	    * The Blessed Dread, Pirates of Sartosa, Vampire Coast, The Drowned
 	* Construct the Wreck of the Heldenhammer and the Special Deck
 	* Own at least 3 Necrofex Colossus
 * **Long Victory Conditions**:
-	* Earn 20000 infamy
+	* Earn 25000 infamy
 	* Capture at least 25 provinces
 	* Destroy factions
 	    * The Blessed Dread, Pirates of Sartosa, Vampire Coast, The Drowned, Empire, Bretonnia, Vampire Counts, 
@@ -46,21 +46,19 @@
 ### Pirates of Sartosa
 
 * **Short Victory Conditions**:
-	* Earn 12000 infamy
-	* Caputre at least 8 provinces
-	* Destroy provinces
+	* Earn 15000 infamy
+	* Destroy factions
 	    * Vampire Coast, Noctilus, Norsca
-	* Sack/loot 15 settlements
+	* Sack/loot 25 settlements
 	* Construct the Dragon Tooth Lighthouse and the Special Deck
 	* Capture 8000 battle captives
 	* Construct 3 tier 5 ports
 	* Earn 6000 from raiding
 * **Long Victory Conditions**:
-	* Earn 20000 infamy
-	* Caputre at least 16 provinces
-	* Destroy provinces
+	* Earn 25000 infamy
+	* Destroy factions
 	    * Vampire Coast, Noctilus, Norsca, Wintertooth, The Drowned, The Blessed Dread
-	* Sack/loot 30 settlements
+	* Sack/loot 40 settlements
 	* Construct the Dragon Tooth Lighthouse and the Special Deck
 	* Capture 15000 battle captives
 	* Construct 6 tier 5 ports
@@ -69,7 +67,7 @@
 ### The Drowned
 
 * **Short Victory Conditions**:
-	* Earn 12000 infamy
+	* Earn 15000 infamy
 	* Capture at least 12 provinces including
 	    * Caledor, Eataine, Tiranoc, Ellyrion, Avelorn, Saphery
     * Destroy factions
@@ -79,7 +77,7 @@
     * Own 10 Syreen / Mourngul
     * Own 3 Mourngul Haunters
 * **Long Victory Conditions**:
-	* Earn 20000 infamy
+	* Earn 25000 infamy
 	* Capture at least 20 provinces including
 	    * Caledor, Eataine, Tiranoc, Ellyrion, Avelorn, Saphery, Yvresse, Cothique, Chrace, Nagarythe, Eagle Gate, 
 	    Griffon Gate, Phoenix Gate, Unicorn Gate

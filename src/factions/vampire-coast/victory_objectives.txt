@@ -16,16 +16,16 @@
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
 			{
-				objective																		//Earn 12,000 infamy
+				objective
 				{
 					type HAVE_AT_LEAST_X_OF_A_POOLED_RESOURCE;
 					pooled_resource cst_infamy;
-					total 6000;
+					total 15000;
 					additive;
 				}
 				objective
 				{
-					type CONTROL_N_PROVINCES_INCLUDING;							// Capture at least 16 provinces
+					type CONTROL_N_PROVINCES_INCLUDING;
 					total 12;
 					province wh2_main_vampire_coast;
 					province wh2_main_northern_great_jungle;
@@ -46,7 +46,7 @@
 					faction wh2_dlc12_lzd_cult_of_sotek;
 					confederation_valid;
 				}
-				objective																		// Construct some special buildings
+				objective
 				{
 					type CONSTRUCT_N_BUILDINGS_FROM;
 					faction wh2_dlc11_cst_vampire_coast;
@@ -54,12 +54,12 @@
 					building_level wh2_dlc11_special_ancient_vault_2;
 					building_level wh2_dlc11_special_ship_harkon_1;
 				}
-				objective																		//Have 80 units
+				objective
 				{
 					type OWN_N_UNITS;
 					total 80;
 				}
-				objective																	// Repair Harkons mind
+				objective
 				{
 					override_text mission_text_text_mis_activity_restore_harkons_mind;
                     type SCRIPTED;
@@ -83,16 +83,16 @@
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
 			{
-				objective																		//Earn 20,000 infamy
+				objective
 				{
 					type HAVE_AT_LEAST_X_OF_A_POOLED_RESOURCE;
 					pooled_resource cst_infamy;
-					total 10000;
+					total 25000;
 					additive;
 				}
 				objective
 				{
-					type CONTROL_N_PROVINCES_INCLUDING;							// Capture at least 30 provinces
+					type CONTROL_N_PROVINCES_INCLUDING;
 					total 25;
 					province wh2_main_vampire_coast;
 					province wh2_main_northern_great_jungle;
@@ -123,7 +123,7 @@
 					faction wh2_dlc12_lzd_cult_of_sotek;
 					confederation_valid;
 				}
-				objective																		// Construct some special buildings
+				objective
 				{
 					type CONSTRUCT_N_BUILDINGS_FROM;
 					faction wh2_dlc11_cst_vampire_coast;
@@ -131,12 +131,12 @@
 					building_level wh2_dlc11_special_ancient_vault_2;
 					building_level wh2_dlc11_special_ship_harkon_1;
 				}
-				objective																		//Have 160 units
+				objective
 				{
 					type OWN_N_UNITS;
 					total 160;
 				}
-				objective																	// Repair Harkons mind
+				objective
 				{
 					override_text mission_text_text_mis_activity_restore_harkons_mind;
                     type SCRIPTED;
@@ -238,16 +238,16 @@
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
 			{
-				objective																		//Earn 12,000 infamy
+				objective
 				{
 					type HAVE_AT_LEAST_X_OF_A_POOLED_RESOURCE;
 					pooled_resource cst_infamy;
-					total 6000;
+					total 15000;
 					additive;
 				}
 				objective
 				{
-					type CONTROL_N_PROVINCES_INCLUDING;							// Capture at least 12 provinces
+					type CONTROL_N_PROVINCES_INCLUDING;
 					total 12;
 				}
 				objective
@@ -259,7 +259,7 @@
 					faction wh2_dlc11_cst_the_drowned;
 					confederation_valid;
 				}
-				objective																		// Construct some special buildings
+				objective
 				{
 					type CONSTRUCT_N_BUILDINGS_FROM;
 					faction wh2_dlc11_cst_noctilus;
@@ -267,7 +267,7 @@
 					building_level wh2_dlc11_special_galleons_graveyard_wreck_1;
 					building_level wh2_dlc11_special_ship_noctilus_1;
 				}
-				objective																		//Own 10 Depth Guard
+				objective
 				{
 					type OWN_N_UNITS;
 					total 3;
@@ -291,16 +291,16 @@
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
 			{
-				objective																		//Earn 20,000 infamy
+				objective
 				{
 					type HAVE_AT_LEAST_X_OF_A_POOLED_RESOURCE;
 					pooled_resource cst_infamy;
-					total 10000;
+					total 25000;
 					additive;
 				}
 				objective
 				{
-					type CONTROL_N_PROVINCES_INCLUDING;									// Capture at least 25 provinces
+					type CONTROL_N_PROVINCES_INCLUDING;
 					total 25;
 					province wh_main_eastern_sylvania;
 					province wh_main_western_sylvania;
@@ -320,7 +320,7 @@
 					faction wh2_dlc09_tmb_followers_of_nagash;
 					confederation_valid;
 				}
-				objective																		// Construct some special buildings
+				objective
 				{
 					type CONSTRUCT_N_BUILDINGS_FROM;
 					faction wh2_dlc11_cst_noctilus;
@@ -328,7 +328,7 @@
 					building_level wh2_dlc11_special_galleons_graveyard_wreck_1;
 					building_level wh2_dlc11_special_ship_noctilus_1;
 				}
-				objective																		//Own 6 Necrofex
+				objective
 				{
 					type OWN_N_UNITS;
 					total 6;
@@ -431,17 +431,12 @@
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
 			{
-				objective																		//Earn 12,000 infamy
+				objective
 				{
 					type HAVE_AT_LEAST_X_OF_A_POOLED_RESOURCE;
 					pooled_resource cst_infamy;
-					total 6000;
+					total 15000;
 					additive;
-				}
-				objective
-				{
-					type CONTROL_N_PROVINCES_INCLUDING;							// Capture at least 8 provinces
-					total 8;
 				}
 				objective
 				{
@@ -451,12 +446,12 @@
 					faction wh_dlc08_nor_norsca;
 					confederation_valid;
 				}
-				objective																		// Sack / loot 15 settlements
+				objective
 				{
 					type LOOT_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
-					total 15;
+					total 25;
 				}
-				objective																		// Construct some special buildings
+				objective
 				{
 					type CONSTRUCT_N_BUILDINGS_FROM;
 					faction wh2_dlc11_cst_pirates_of_sartosa;
@@ -464,19 +459,19 @@
 					building_level wh2_dlc11_special_dragon_tooth_lighthouse_1;
 					building_level wh2_dlc11_special_ship_aranessa_1;
 				}
-				objective																		// Capture 8,000 battle captives
+				objective
 				{
 					type CAPTURE_X_BATTLE_CAPTIVES;
 					total 8000;
 				}
-				objective																		// Construct 3 tier 5 ports
+				objective
 				{
 					type CONSTRUCT_N_OF_A_BUILDING;
 					faction wh2_dlc11_cst_pirates_of_sartosa;
 					total 3;
 					building_level wh2_dlc11_vampirecoast_port_3;
 				}
-				objective																		//Earn 6,000 from raiding
+				objective
 				{
 					type EARN_X_AMOUNT_FROM_RAIDING;
 					total 6000;
@@ -499,17 +494,12 @@
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
 			{
-				objective																		//Earn 20,000 infamy
+				objective
 				{
 					type HAVE_AT_LEAST_X_OF_A_POOLED_RESOURCE;
 					pooled_resource cst_infamy;
-					total 10000;
+					total 25000;
 					additive;
-				}
-				objective
-				{
-					type CONTROL_N_PROVINCES_INCLUDING;							// Capture at least 16 provinces
-					total 16;
 				}
 				objective
 				{
@@ -522,40 +512,36 @@
 					faction wh2_dlc11_def_the_blessed_dread;
 					confederation_valid;
 				}
-				objective																		// Sack / loot 30 settlements
+				objective
 				{
 					type LOOT_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;
-					total 30;
+					total 40;
 				}
-				objective																		// Construct some special buildings
+				objective
 				{
 					type CONSTRUCT_N_BUILDINGS_FROM;
 					faction wh2_dlc11_cst_pirates_of_sartosa;
 					total 2;
 					building_level wh2_dlc11_special_dragon_tooth_lighthouse_1;
 					building_level wh2_dlc11_special_ship_aranessa_1;
-
-
 				}
-				objective																		// Capture 15,000 battle captives
+				objective
 				{
 					type CAPTURE_X_BATTLE_CAPTIVES;
 					total 15000;
 				}
-				objective																		// Construct 6 tier ports
+				objective
 				{
 					type CONSTRUCT_N_OF_A_BUILDING;
 					faction wh2_dlc11_cst_pirates_of_sartosa;
 					total 6;
 					building_level wh2_dlc11_vampirecoast_port_3;
 				}
-				objective																		//Earn 10,000 from raiding
+				objective
 				{
 					type EARN_X_AMOUNT_FROM_RAIDING;
 					total 10000;
 				}
-
-				//
 
 				payload
 				{
@@ -651,16 +637,16 @@
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
 			{
-				objective																		//Earn 12,000 infamy
+				objective
 				{
 					type HAVE_AT_LEAST_X_OF_A_POOLED_RESOURCE;
 					pooled_resource cst_infamy;
-					total 6000;
+					total 15000;
 					additive;
 				}
 				objective
 				{
-					type CONTROL_N_PROVINCES_INCLUDING;							// Capture at least 12 provinces
+					type CONTROL_N_PROVINCES_INCLUDING;
 					total 12;
 					province wh2_main_caledor;
 					province wh2_main_eataine;
@@ -715,11 +701,11 @@
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
 			{
-				objective																		//Earn 20,000 infamy
+				objective
 				{
 					type HAVE_AT_LEAST_X_OF_A_POOLED_RESOURCE;
 					pooled_resource cst_infamy;
-					total 10000;
+					total 25000;
 					additive;
 				}
 				objective
