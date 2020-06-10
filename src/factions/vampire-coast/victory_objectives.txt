@@ -25,25 +25,32 @@
 				}
 				objective
 				{
-					type CONTROL_N_PROVINCES_INCLUDING;
-					total 12;
-					province wh2_main_vampire_coast;
-					province wh2_main_northern_great_jungle;
-					province wh2_main_southern_great_jungle;
-					province wh2_main_headhunters_jungle;
-					province wh2_main_the_creeping_jungle;
-					province wh2_main_jungles_of_green_mists;
-					province wh2_main_volcanic_islands;
+					type CONTROL_N_REGIONS_INCLUDING;
+					total 8;
+
+					region wh2_main_vor_the_vampire_coast_the_awakening;
+					region wh2_main_vor_the_vampire_coast_pox_marsh;
+					region wh2_main_vor_the_vampire_coast_the_blood_swamps;
+					region wh2_main_volcanic_islands_the_star_tower;
+					region wh2_main_volcanic_islands_fuming_serpent;
+					region wh2_main_northern_great_jungle_temple_of_tlencan;
+					region wh2_main_headhunters_jungle_chupayotl;
+					region wh2_main_headhunters_jungle_mangrove_coast;
+					region wh2_main_vor_the_creeping_jungle_temple_of_kara;
+					region wh2_main_vor_jungle_of_pahualaxa_the_high_sentinel;
+					region wh2_main_vor_jungle_of_pahualaxa_monument_of_the_moon;
+					region wh2_main_vor_settlers_coast_swamp_town;
+					region wh2_main_vor_settlers_coast_port_reaver;
+					region wh2_main_vor_settlers_coast_skeggi;
+					region wh2_main_vor_isthmus_of_lustria_ziggurat_of_dawn;
 				}
 				objective
 				{
 					type DESTROY_FACTION;
-					faction wh2_main_hef_order_of_loremasters;
-					faction wh2_dlc11_def_the_blessed_dread;
-					faction wh2_main_skv_clan_pestilens;
 					faction wh2_main_lzd_itza;
 					faction wh2_main_lzd_tlaxtlan;
 					faction wh2_dlc12_lzd_cult_of_sotek;
+					faction wh2_main_lzd_hexoatl;
 					confederation_valid;
 				}
 				objective
@@ -57,7 +64,7 @@
 				objective
 				{
 					type OWN_N_UNITS;
-					total 80;
+					total 60;
 				}
 				objective
 				{
@@ -65,8 +72,6 @@
                     type SCRIPTED;
                     script_key restore_harkon_mind;
 				}
-
-				//
 
 				payload
 				{
@@ -92,35 +97,40 @@
 				}
 				objective
 				{
-					type CONTROL_N_PROVINCES_INCLUDING;
-					total 25;
-					province wh2_main_vampire_coast;
-					province wh2_main_northern_great_jungle;
-					province wh2_main_southern_great_jungle;
-					province wh2_main_headhunters_jungle;
-					province wh2_main_the_creeping_jungle;
-					province wh2_main_jungles_of_green_mists;
-					province wh2_main_spine_of_sotek;
-					province wh2_main_huahuan_desert;
-					province wh2_main_northern_jungle_of_pahualaxa;
-					province wh2_main_southern_jungle_of_pahualaxa;
-					province wh2_main_isthmus_of_lustria;
-					province wh2_main_volcanic_islands;
+					type CONTROL_N_REGIONS_INCLUDING;
+					total 15;
+
+					region wh2_main_vor_the_vampire_coast_the_awakening;
+					region wh2_main_vor_the_vampire_coast_pox_marsh;
+					region wh2_main_vor_the_vampire_coast_the_blood_swamps;
+					region wh2_main_volcanic_islands_the_star_tower;
+					region wh2_main_volcanic_islands_fuming_serpent;
+					region wh2_main_northern_great_jungle_temple_of_tlencan;
+					region wh2_main_headhunters_jungle_chupayotl;
+					region wh2_main_headhunters_jungle_mangrove_coast;
+					region wh2_main_vor_the_creeping_jungle_temple_of_kara;
+					region wh2_main_vor_jungle_of_pahualaxa_the_high_sentinel;
+					region wh2_main_vor_jungle_of_pahualaxa_monument_of_the_moon;
+					region wh2_main_vor_settlers_coast_swamp_town;
+					region wh2_main_vor_settlers_coast_port_reaver;
+					region wh2_main_vor_settlers_coast_skeggi;
+					region wh2_main_vor_isthmus_of_lustria_ziggurat_of_dawn;
 				}
 				objective
 				{
 					type DESTROY_FACTION;
 					faction wh2_dlc11_cst_noctilus;
-					faction wh2_main_hef_order_of_loremasters;
-					faction wh2_dlc11_def_the_blessed_dread;
-					faction wh2_main_skv_clan_pestilens;
-					faction wh2_main_lzd_hexoatl;
+					faction wh2_dlc11_cst_the_drowned;
+					faction wh2_dlc11_cst_pirates_of_sartosa;
+
+
 					faction wh2_main_lzd_itza;
-					faction wh2_main_lzd_last_defenders;
-					faction wh2_main_lzd_sentinels_of_xeti;
-					faction wh2_main_lzd_teotiqua;
-					faction wh2_main_lzd_tlaxtlan;
 					faction wh2_dlc12_lzd_cult_of_sotek;
+					faction wh2_main_lzd_sentinels_of_xeti;
+					faction wh2_main_lzd_hexoatl;
+					faction wh2_main_lzd_tlaxtlan;
+					faction wh2_dlc13_lzd_spirits_of_the_jungle;
+					faction wh2_dlc13_lzd_spirits_of_the_jungle;
 					confederation_valid;
 				}
 				objective
@@ -134,7 +144,7 @@
 				objective
 				{
 					type OWN_N_UNITS;
-					total 160;
+					total 100;
 				}
 				objective
 				{
@@ -142,7 +152,6 @@
                     type SCRIPTED;
                     script_key restore_harkon_mind;
 				}
-				//
 
 				payload
 				{
@@ -248,7 +257,10 @@
 				objective
 				{
 					type CONTROL_N_PROVINCES_INCLUDING;
-					total 12;
+					total 3;
+					province wh2_main_vor_galleons_graveyard;
+					province wh2_main_vor_the_vampire_coast;
+					province wh2_main_vor_sartosa;
 				}
 				objective
 				{
@@ -273,8 +285,6 @@
 					total 3;
 					unit wh2_dlc11_cst_mon_necrofex_colossus_0;
 				}
-
-				//
 
 				payload
 				{
@@ -301,9 +311,10 @@
 				objective
 				{
 					type CONTROL_N_PROVINCES_INCLUDING;
-					total 25;
-					province wh_main_eastern_sylvania;
-					province wh_main_western_sylvania;
+					total 3;
+					province wh2_main_vor_galleons_graveyard;
+					province wh2_main_vor_the_vampire_coast;
+					province wh2_main_vor_sartosa;
 				}
 				objective
 				{
@@ -646,20 +657,30 @@
 				}
 				objective
 				{
-					type CONTROL_N_PROVINCES_INCLUDING;
-					total 12;
+					type CONTROL_N_PROVINCES_INCLUDING_AT_LEAST_N;
+					total 5;
 					province wh2_main_caledor;
 					province wh2_main_eataine;
 					province wh2_main_tiranoc;
 					province wh2_main_ellyrion;
 					province wh2_main_avelorn;
 					province wh2_main_saphery;
+					province wh2_main_yvresse;
+					province wh2_main_cothique;
+					province wh2_main_chrace;
+					province wh2_main_nagarythe;
+					province wh2_main_eagle_gate;
+					province wh2_main_griffon_gate;
+					province wh2_main_phoenix_gate;
+					province wh2_main_unicorn_gate;
 				}
 				objective
 				{
 					type DESTROY_FACTION;
-					faction wh2_main_lzd_hexoatl;
 					faction wh2_main_hef_eataine;
+					faction wh2_main_hef_caledor;
+					faction wh2_main_hef_saphery;
+					faction wh2_main_hef_ellyrion;
 					confederation_valid;
 				}
 				objective																		// Construct some special buildings
@@ -683,8 +704,6 @@
 					total 3;
 					agent_subtype wh2_dlc11_cst_mourngul;
 				}
-
-				//
 
 				payload
 				{
@@ -710,8 +729,8 @@
 				}
 				objective
 				{
-					type CONTROL_N_PROVINCES_INCLUDING;							// Capture at least 20 provinces
-					total 20;
+					type CONTROL_N_PROVINCES_INCLUDING;
+					total 14;
 					province wh2_main_caledor;
 					province wh2_main_eataine;
 					province wh2_main_tiranoc;
@@ -731,9 +750,14 @@
 				{
 					type DESTROY_FACTION;
 					faction wh2_main_hef_eataine;
+					faction wh2_main_hef_caledor;
+					faction wh2_main_hef_saphery;
+					faction wh2_main_hef_yvresse;
 					faction wh2_main_hef_avelorn;
-					faction wh2_main_hef_nagarythe;
-					faction wh2_main_lzd_hexoatl;
+					faction wh2_main_hef_ellyrion;
+					faction wh2_main_hef_tiranoc;
+					faction wh2_main_hef_cothique;
+					faction wh2_main_hef_chrace;
 					confederation_valid;
 				}
 				objective																		// Construct some special buildings

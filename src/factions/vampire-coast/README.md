@@ -20,8 +20,8 @@
 	    Mangrove Coast, Temple of Kara, THe High Sentinel, Monument of the Moon, Swamp Town, Port Reaver, Skaeggi,
 	    Ziggurat of Dawn
 	* Destroy factions
-	    * Itza, Cult of Sotek, Sentinels of Xeti, Hexoatl, Tlaxlan, Nakai, The Drowned, Pirates of Sartosa, The 
-	    Dreadfleet
+	    * Itza, Cult of Sotek, Sentinels of Xeti, Hexoatl, Tlaxlan, Spirits of The Jungle, The Drowned, Pirates of 
+	    Sartosa, The Dreadfleet
 	* Construct The Awakened Landmark and the Special Deck
 	* Own at least 100 units
 	* Repair Harkons mind
@@ -31,7 +31,7 @@
 * **Short Victory Conditions**:
 	* Earn 15000 infamy
 	* Control provinces
-	    * Galleon's Graveyard, Vampire Coast, Sartosa
+	    * Galleon's Graveyard, The Vampire Coast, Sartosa
 	* Destroy factions
 	    * The Blessed Dread, Pirates of Sartosa, Vampire Coast, The Drowned
 	* Construct the Wreck of the Heldenhammer and the Special Deck
@@ -40,7 +40,7 @@
 	* Earn 25000 infamy
 	* Control provinces
 	    * Galleon's Graveyard, Vampire Coast, Sartosa
-	* Destroy factions
+	* FIXME Destroy factions
 	    * The Blessed Dread, Pirates of Sartosa, Vampire Coast, The Drowned, Empire, Bretonnia, Vampire Counts, 
 	    Schwartzhafen, The Barrow Legion, Followers of Nagash
 	* Construct the Wreck of the Heldenhammer and the Special Deck
@@ -50,7 +50,7 @@
 
 * **Short Victory Conditions**:
 	* Earn 15000 infamy
-	* Destroy factions
+	* FIXME Destroy factions
 	    * The Awakened, The Dreadfleet, Norsca
 	* Sack/loot 25 settlements
 	* Construct the Dragon Tooth Lighthouse and the Special Deck
@@ -59,7 +59,7 @@
 	* Earn 6000 from raiding
 * **Long Victory Conditions**:
 	* Earn 25000 infamy
-	* Destroy factions
+	* FIXME Destroy factions
 	    * The Awakened, The Dreadfleet, Norsca, Wintertooth, The Drowned, The Blessed Dread
 	* Sack/loot 40 settlements
 	* Construct the Dragon Tooth Lighthouse and the Special Deck
