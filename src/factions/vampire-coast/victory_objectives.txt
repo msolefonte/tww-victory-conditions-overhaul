@@ -28,21 +28,21 @@
 					type CONTROL_N_REGIONS_INCLUDING;
 					total 8;
 
-					region wh2_main_vor_the_vampire_coast_the_awakening;
-					region wh2_main_vor_the_vampire_coast_pox_marsh;
-					region wh2_main_vor_the_vampire_coast_the_blood_swamps;
+					region wh2_main_vampire_coast_the_awakening;
+					region wh2_main_vampire_coast_pox_marsh;
+					region wh2_main_vampire_coast_the_blood_swamps;
 					region wh2_main_volcanic_islands_the_star_tower;
 					region wh2_main_volcanic_islands_fuming_serpent;
 					region wh2_main_northern_great_jungle_temple_of_tlencan;
 					region wh2_main_headhunters_jungle_chupayotl;
 					region wh2_main_headhunters_jungle_mangrove_coast;
-					region wh2_main_vor_the_creeping_jungle_temple_of_kara;
-					region wh2_main_vor_jungle_of_pahualaxa_the_high_sentinel;
-					region wh2_main_vor_jungle_of_pahualaxa_monument_of_the_moon;
-					region wh2_main_vor_settlers_coast_swamp_town;
-					region wh2_main_vor_settlers_coast_port_reaver;
-					region wh2_main_vor_settlers_coast_skeggi;
-					region wh2_main_vor_isthmus_of_lustria_ziggurat_of_dawn;
+					region wh2_main_the_creeping_jungle_temple_of_kara;
+					region wh2_main_southern_jungle_of_pahualaxa_the_high_sentinel;
+					region wh2_main_southern_jungle_of_pahualaxa_monument_of_the_moon;
+					region wh2_main_northern_jungle_of_pahualaxa_swamp_town;
+					region wh2_main_northern_jungle_of_pahualaxa_port_reaver;
+					region wh2_main_isthmus_of_lustria_skeggi;
+					region wh2_main_isthmus_of_lustria_ziggurat_of_dawn;
 				}
 				objective
 				{
@@ -100,21 +100,21 @@
 					type CONTROL_N_REGIONS_INCLUDING;
 					total 15;
 
-					region wh2_main_vor_the_vampire_coast_the_awakening;
-					region wh2_main_vor_the_vampire_coast_pox_marsh;
-					region wh2_main_vor_the_vampire_coast_the_blood_swamps;
+					region wh2_main_vampire_coast_the_awakening;
+					region wh2_main_vampire_coast_pox_marsh;
+					region wh2_main_vampire_coast_the_blood_swamps;
 					region wh2_main_volcanic_islands_the_star_tower;
 					region wh2_main_volcanic_islands_fuming_serpent;
 					region wh2_main_northern_great_jungle_temple_of_tlencan;
 					region wh2_main_headhunters_jungle_chupayotl;
 					region wh2_main_headhunters_jungle_mangrove_coast;
-					region wh2_main_vor_the_creeping_jungle_temple_of_kara;
-					region wh2_main_vor_jungle_of_pahualaxa_the_high_sentinel;
-					region wh2_main_vor_jungle_of_pahualaxa_monument_of_the_moon;
-					region wh2_main_vor_settlers_coast_swamp_town;
-					region wh2_main_vor_settlers_coast_port_reaver;
-					region wh2_main_vor_settlers_coast_skeggi;
-					region wh2_main_vor_isthmus_of_lustria_ziggurat_of_dawn;
+					region wh2_main_the_creeping_jungle_temple_of_kara;
+					region wh2_main_southern_jungle_of_pahualaxa_the_high_sentinel;
+					region wh2_main_southern_jungle_of_pahualaxa_monument_of_the_moon;
+					region wh2_main_northern_jungle_of_pahualaxa_swamp_town;
+					region wh2_main_northern_jungle_of_pahualaxa_port_reaver;
+					region wh2_main_isthmus_of_lustria_skeggi;
+					region wh2_main_isthmus_of_lustria_ziggurat_of_dawn;
 				}
 				objective
 				{
@@ -258,9 +258,9 @@
 				{
 					type CONTROL_N_PROVINCES_INCLUDING;
 					total 3;
-					province wh2_main_vor_galleons_graveyard;
-					province wh2_main_vor_the_vampire_coast;
-					province wh2_main_vor_sartosa;
+					province wh2_main_galleons_graveyard;
+					province wh2_main_vampire_coast;
+					province wh2_main_sartosa;
 				}
 				objective
 				{
@@ -269,7 +269,7 @@
 					faction wh2_dlc11_cst_pirates_of_sartosa;
 					faction wh2_dlc11_cst_vampire_coast;
 					faction wh2_dlc11_cst_the_drowned;
-					faction wh_main_brt_bordeleaux;
+					faction wh2_main_sartosa;
 					confederation_valid;
 				}
 				objective
@@ -313,9 +313,9 @@
 				{
 					type CONTROL_N_PROVINCES_INCLUDING;
 					total 3;
-					province wh2_main_vor_galleons_graveyard;
-					province wh2_main_vor_the_vampire_coast;
-					province wh2_main_vor_sartosa;
+					province wh2_main_galleons_graveyard;
+					province wh2_main_vampire_coast;
+					province wh2_main_sartosa;
 				}
 				objective
 				{
@@ -657,22 +657,20 @@
 				}
 				objective
 				{
-					type CONTROL_N_PROVINCES_INCLUDING_AT_LEAST_N;
+					type CONTROL_N_REGIONS_FROM;
 					total 5;
-					province wh2_main_caledor;
-					province wh2_main_eataine;
-					province wh2_main_tiranoc;
-					province wh2_main_ellyrion;
-					province wh2_main_avelorn;
-					province wh2_main_saphery;
-					province wh2_main_yvresse;
-					province wh2_main_cothique;
-					province wh2_main_chrace;
-					province wh2_main_nagarythe;
-					province wh2_main_eagle_gate;
-					province wh2_main_griffon_gate;
-					province wh2_main_phoenix_gate;
-					province wh2_main_unicorn_gate;
+					region wh2_main_eataine_lothern;
+					region wh2_main_yvresse_shrine_of_loec;
+					region wh2_main_eataine_angerrial;
+					region wh2_main_yvresse_elessaeli;
+					region wh2_main_northern_yvresse_tralinia;
+					region wh2_main_cothique_tor_koruali;
+					region wh2_main_cothique_mistnar;
+					region wh2_main_chrace_elisia;
+					region wh2_main_nagarythe_tor_anlec;
+					region wh2_main_tiranoc_tor_anroc;
+					region wh2_main_ellyrion_whitefire_tor;
+					region wh2_main_avelorn_evershale;
 				}
 				objective
 				{

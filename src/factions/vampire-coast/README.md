@@ -71,9 +71,9 @@
 
 * **Short Victory Conditions**:
 	* Earn 15000 infamy
-	* Capture 5 provinces of the following:
-	    * Caledor, Eataine, Tiranoc, Ellyrion, Avelorn, Saphery, Yvresse, Cothique, Chrace, Nagarythe, Eagle Gate, 
-	    Griffon Gate, Phoenix Gate, Unicorn Gate
+	* Capture 5 of the following regions
+	    * Lothern, Shrine of Loec, Angerrial, Elessaeli, Tralinia, Tor Koruali, Mistnar, Elisia, Tor Anlec, Tor Anroc,
+	    Whitefire Tor, Evershale
     * Destroy factions
         * Eataine, Caledor, Saphery, Ellyrion
     * Construct builings

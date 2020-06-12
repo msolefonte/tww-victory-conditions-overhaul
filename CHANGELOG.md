@@ -17,7 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Now Followers of Nagash and Court of Lybaras only need to construct 1 pyramid to achieve a Short Victory
 - Now Sylvania does not need to defeat Archaon to achieve a Short Victory
 
-## [1.2.0] The Pirates Update - TBA
+## [1.2.0] The Pirates Update - 2020.06.12
 
 - All "Hold X provinces" objectives have been deleted from the Vampire Coast factions
 - The infamy required for all the Vampire Coast Short Victories has been updated from 6000 to 15000
@@ -30,7 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Itza, Cult of Sotek, Sentinels of Xeti, Hexoatl, Tlaxlan, Nakai, The Drowned, Pirates of Sartosa, The Dreadfleet
 - The number of units required by The Awakened to achieve a Short Victory has been reduced to 60
 - The number of units required by The Awakened to achieve a Long Victory has been reduced to 100
-- Now The Drowned conquer at least five provinces of Ulthuan to achieve a Short Victory
+- Now The Drowned conquer at least five ports of Ulthuan to achieve a Short Victory
 - Now The Drowned conquer all Ulthuan to achieve a Long Victory
 - Now The Drowned have to destroy some of the Ulthuan starting factions to achieve a Short Victory
     - Eataine, Caledor, Saphery, Ellyrion
@@ -46,5 +46,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - The number of sacked/looted settlements of Pirates of Sartosa has been pushed from 15 to 25 for a Short Victory
 - The number of sacked/looted settlements of Pirates of Sartosa has been pushed from 30 to 40 for a Long Victory
 - The Blessed Dread Short Victory "Hold X provinces" objective has been removed
-- TBD The number of captives required by the The Blessed Dread Short Victory has been pushed to 20k
-- TBD The number of captives required by the The Blessed Dread Long Victory has been pushed to 40k
+- The number of captives required by the The Blessed Dread Short Victory has been pushed to 20k
+- The number of captives required by the The Blessed Dread Long Victory has been pushed to 40k
+- Minor fixes
