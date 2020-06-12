@@ -33,16 +33,16 @@
 	* Control provinces
 	    * Galleon's Graveyard, The Vampire Coast, Sartosa
 	* Destroy factions
-	    * The Blessed Dread, Pirates of Sartosa, Vampire Coast, The Drowned
+	    * The Blessed Dread, Pirates of Sartosa, Vampire Coast, The Drowned, Bordelaux
 	* Construct the Wreck of the Heldenhammer and the Special Deck
 	* Own at least 3 Necrofex Colossus
 * **Long Victory Conditions**:
 	* Earn 25000 infamy
 	* Control provinces
 	    * Galleon's Graveyard, Vampire Coast, Sartosa
-	* FIXME Destroy factions
-	    * The Blessed Dread, Pirates of Sartosa, Vampire Coast, The Drowned, Empire, Bretonnia, Vampire Counts, 
-	    Schwartzhafen, The Barrow Legion, Followers of Nagash
+	* Destroy factions
+	    * The Blessed Dread, Pirates of Sartosa, Vampire Coast, The Drowned, Bordelaux,
+	    Bretonnia, The Barrow Legion, Followers of Nagash, Mousillon
 	* Construct the Wreck of the Heldenhammer and the Special Deck
 	* Own at least 6 Necrofex Colossus
 
@@ -50,7 +50,7 @@
 
 * **Short Victory Conditions**:
 	* Earn 15000 infamy
-	* FIXME Destroy factions
+	* Destroy factions
 	    * The Awakened, The Dreadfleet, Norsca
 	* Sack/loot 25 settlements
 	* Construct the Dragon Tooth Lighthouse and the Special Deck
@@ -59,7 +59,7 @@
 	* Earn 6000 from raiding
 * **Long Victory Conditions**:
 	* Earn 25000 infamy
-	* FIXME Destroy factions
+	* Destroy factions
 	    * The Awakened, The Dreadfleet, Norsca, Wintertooth, The Drowned, The Blessed Dread
 	* Sack/loot 40 settlements
 	* Construct the Dragon Tooth Lighthouse and the Special Deck

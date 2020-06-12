@@ -36,7 +36,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Eataine, Caledor, Saphery, Ellyrion
 - Now The Drowned have to destroy all the Ulthuan starting factions to achieve a Long Victory
     - Eataine, Caledor, Saphery, Yvresse, Avelorn, Ellyrion, Tiranoc, Cothique, Chrace
-- Now The Dreadfleet has to hold Galleon's Graveyard, Vampire Coast and Sartosa to achieve a victory
+- Now The Dreadfleet have to hold Galleon's Graveyard, Vampire Coast and Sartosa to achieve a victory
+- Now The Dreadfleet have to destroy Bordelaux to achieve a Short Victory
+- Now The Dreadfleet have no longer to destroy factions to achieve a Long Victory
+    - Vampire Counts, Von Carstein, The Empire
+- Now the Dreadfleet have to destroy new factions to achieve a Long Victory
+    - Bordelaux, Mousillon
 - Now Pirates of Sartosa is not required to hold any specific territory outside of Sartosa
 - The number of sacked/looted settlements of Pirates of Sartosa has been pushed from 15 to 25 for a Short Victory
 - The number of sacked/looted settlements of Pirates of Sartosa has been pushed from 30 to 40 for a Long Victory

@@ -269,6 +269,7 @@
 					faction wh2_dlc11_cst_pirates_of_sartosa;
 					faction wh2_dlc11_cst_vampire_coast;
 					faction wh2_dlc11_cst_the_drowned;
+					faction wh_main_brt_bordeleaux;
 					confederation_valid;
 				}
 				objective
@@ -323,12 +324,11 @@
 					faction wh2_dlc11_cst_pirates_of_sartosa;
 					faction wh2_dlc11_cst_vampire_coast;
 					faction wh2_dlc11_cst_the_drowned;
-					faction wh_main_emp_empire;
 					faction wh_main_brt_bretonnia;
-					faction wh_main_vmp_vampire_counts;
-					faction wh_main_vmp_schwartzhafen;
+					faction wh_main_brt_bordeleaux;
 					faction wh2_dlc11_vmp_the_barrow_legion;
 					faction wh2_dlc09_tmb_followers_of_nagash;
+					faction wh_main_vmp_mousillon;
 					confederation_valid;
 				}
 				objective
