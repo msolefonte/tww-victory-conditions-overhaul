@@ -75,7 +75,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Now they do not have destroy Hexoatl and The Dreadfleet
 - Now The Huntsmarshal's Expedition will have to defeat The Blessed Dread to achieve a Long Victory
 
-## [1.4.0] The Dwarfs Update - TBA
+## [1.4.0] The Dwarfs Update - 2020.06.18
 
 - Destroying High Elves is no longer a requisite to achieve a Karaz-A-Karak Long Victory
 - Introduced major redone of Karak Kadrin
