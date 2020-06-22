@@ -109,3 +109,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Warriors of Chaos victory conditions have been redefined to embrace their freedom
     - Now they do not have to destroy the Empire, Bretonnia, Dwarfs and High Elves to achieve a victory
 - Minor fixes
+
+## [1.6.0] The Lady and the Count - TBA
+
+- TBD
