@@ -94,19 +94,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - The Huntsmarshal's Expedition has no longer to hold the Galleon's Graveyard to achieve a Long Victory
 - Minor fixes
 
-# [1.5.0] The Chaos Update - TBA
+# [1.5.0] The Chaos Hordes Update - 2020.06.22
 
 - Now Beastmen have to destroy Middenland, Laurelorn Forest, Talsyn, Argwylon, Torgovann and Wydrioth to achieve a Short Victory
 - World Walkers do no have to destroy Empire and Bretonnia anymore to achieve a Long Victory
-- TBD Now World Walkers have to control at least 3 world capitals to achieve a Long Victory
-- TBD Redone of Wintertooth Victory Conditions
-    - TBD Now they have to destroy Kislev
-    - TBD Now have to control Erengrad and Kislev
+- Now World Walkers have to control at least 3 world capitals to achieve a Long Victory
+- Redone of Wintertooth Victory Conditions
+    - Now they have to destroy Kislev
+    - Now have to control Erengrad and Kislev
 - TBD Redone of Wintertooth Long Victory Conditions
-    - TBD They do not have to destroy Empire and Karaz-A-Karak anymore
-    - TBD Now they have to destroy Karak Kadrin and Bonerattlaz
-    - TBD Now they have to sack or raze at least 60 regions
+    - They do not have to destroy Empire and Karaz-A-Karak anymore
+    - Now they have to destroy Karak Kadrin and Bonerattlaz
+    - Now they have to sack or raze at least 60 regions
 - Warriors of Chaos victory conditions have been redefined to embrace their freedom
     - Now they do not have to destroy the Empire, Bretonnia, Dwarfs and High Elves to achieve a victory
-- TBD VAMPIRES MOTHERFUCKERS
 - Minor fixes
