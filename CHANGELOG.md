@@ -94,10 +94,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - The Huntsmarshal's Expedition has no longer to hold the Galleon's Graveyard to achieve a Long Victory
 - Minor fixes
 
-# [1.5.0] The Old World Bad Boys Update - TBA
+# [1.5.0] The Chaos Update - TBA
 
-- TBD Now Beastmen have to destroy Middenland, Laurelorn Forest, Talsyn, Argwylon, Torgovann and Wydrioth to achieve a Short Victory
-- TBD World Walkers do no have to destroy Empire and Bretonnia anymore to achieve a Long Victory
+- Now Beastmen have to destroy Middenland, Laurelorn Forest, Talsyn, Argwylon, Torgovann and Wydrioth to achieve a Short Victory
+- World Walkers do no have to destroy Empire and Bretonnia anymore to achieve a Long Victory
 - TBD Now World Walkers have to control at least 3 world capitals to achieve a Long Victory
 - TBD Redone of Wintertooth Victory Conditions
     - TBD Now they have to destroy Kislev

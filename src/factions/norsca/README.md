@@ -17,7 +17,7 @@
 	    * Wintertooth
 	* Control at least 3 world capitals
 	* Earn 20000 from raiding
-	* Own at least 7 of the following units:
+	* Own at least 12 of the following units:
 	    * Skinwolves, War Mamooths
 	* Own at least 60 units
 
@@ -41,6 +41,6 @@
 	* Control regions:
 	    * Erengrad, Kislev
 	* Raze or sack 60 regions
-	* Own at least 7 of the following units:
+	* Own at least 12 of the following units:
 	    * Chaos Trolls, Norscan Ice Trolls, Fimirs
 	* Own at least 60 units
