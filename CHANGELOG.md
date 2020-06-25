@@ -129,12 +129,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Defeat Archaon
 - Added a Short Victory for Bordelaux
 	- Attain 2000 Chivalry
-	- TBD Destroy factions:
-	    - The Boyz of The Forbidden Coast, Freebooters of Port Royale, Pirates of Sartosa, The Awakened, The Dreadfleet, The Drowned
+	- Destroy factions:
+	    - Pirates of Sartosa, The Awakened, The Dreadfleet, The Drowned, All Pirate Rogue Armies
 - Major redone of Bordelaux Long Victory conditions
 	- Attain 2000 Chivalry
 	- Destroy factions:
-	    - The Boyz of The Forbidden Coast, Freebooters of Port Royale, Pirates of Sartosa, The Awakened, The Dreadfleet, The Drowned, The Blessed Dread
+	    - Pirates of Sartosa, The Awakened, The Dreadfleet, The Drowned, The Blessed Dread, All Pirate Rogue Armies
 	- Complete the final Errantry War battle
     - Defeat the Chaos Invasion
     - Defeat Archaon
@@ -142,12 +142,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 	- Attain 2000 Chivalry
     - Get a level 20 damsel
 	- Destroy factions:
-	    - Clan Skryre, Skullmasherz, Mousillon, The Barrow Legion
+	    - Clan Skryre, Clan Fester, Skullmasherz, Crooked Moon, Mousillon, The Barrow Legion
 - Major redone of Carcossone Long Victory conditions
 	- Attain 2000 Chivalry
 	- Get 3 level 20 damsels
 	- Destroy factions:
-	    - Clan Skryre, Skullmasherz, Mousillon, The Barrow Legion
+	    - Clan Skryre, Clan Fester, Crooked Moon, The Blooding Hand, Greenskins, Skullmasherz, Mousillon, The Barrow Legion
 	- Complete the final Errantry War battle
     - Defeat the Chaos Invasion
     - Defeat Archaon
