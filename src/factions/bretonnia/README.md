@@ -2,29 +2,53 @@
 
 ### Couronne
 
+* **Short Victory Conditions**:
+	* Attain 2000 Chivalry
+	* Conquer provinces:
+	    * Bastonne, Borderlaux, Carcasone, Couronne, Forest of Arden, Lyonese, Parravon 
+	* Destroy factions: 
+	    * Mousillon, The Barrow Legion, World Walkers, Wintertooth, Vanaheimlings
 * **Long Victory Conditions**:
 	* Attain 2000 Chivalry
 	* Conquer provinces:
 	    * Bastonne, Borderlaux, Carcasone, Couronne, Forest of Arden, Lyonese, Parravon 
 	* Destroy factions: 
-	    * Mousillon, Sylvannia, The Barrow Legion, Von Carstein
+	    * Mousillon, Sylvannia, The Barrow Legion, Von Carstein, World Walkers, Wintertooth, Vanaheimlings
 	* Complete the final Errantry War battle
+    * Defeat the Chaos Invasion
+    * Defeat Archaon
 
 ### Bordelaux
 
-* **Long Victory Conditions**:
-	* Attain 1000 Chivalry
+* **Short Victory Conditions**:
+	* Attain 2000 Chivalry
 	* Destroy factions:
 	    * The Boyz of The Forbidden Coast, Freebooters of Port Royale, Pirates of Sartosa, The Awakened, The Dreadfleet,
-	    The Drowned, Vampire Coast Mutineers, The Blessed Dread
+	    The Drowned
+* **Long Victory Conditions**:
+	* Attain 2000 Chivalry
+	* Destroy factions:
+	    * The Boyz of The Forbidden Coast, Freebooters of Port Royale, Pirates of Sartosa, The Awakened, The Dreadfleet,
+	    The Drowned, The Blessed Dread
 	* Complete the final Errantry War battle
+    * Defeat the Chaos Invasion
+    * Defeat Archaon
 
 ### Carcossone
 
+* **Short Victory Conditions**:
+	* Attain 2000 Chivalry
+    * Get a level 20 damsel
+	* Destroy factions:
+	    * Clan Skryre, Skullmasherz, Mousillon, The Barrow Legion
 * **Long Victory Conditions**:
-	* Attain 1000 Chivalry
+	* Attain 2000 Chivalry
 	* Get 3 level 20 damsels
+	* Destroy factions:
+	    * Clan Skryre, Skullmasherz, Mousillon, The Barrow Legion
 	* Complete the final Errantry War battle
+    * Defeat the Chaos Invasion
+    * Defeat Archaon
 
 ### Chevaliers de Lyonesse
 
